@@ -1,2 +1,2 @@
-# pomodoro_descktop
+# Pomodoro desktop
 Pomodoro app for study, and work.
